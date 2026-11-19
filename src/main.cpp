@@ -2,7 +2,7 @@
 #include <Geode/modify/MenuLayer.hpp>
 using namespace geode::prelude;
 
-$modify(NeuroDashMenuLayer, MenuLayer) {
+class $modify(NeuroDashMenuLayer, MenuLayer) {
     bool init() {
         if (!MenuLayer::init()) return false;
         auto menu = CCMenu::create();
