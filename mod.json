@@ -1,0 +1,9 @@
+{
+  "geode": "v5.11.2",
+  "gd": { "android": "2.2081" },
+  "id": "neurodash.ai",
+  "name": "NEURODASH AI",
+  "version": "v0.1.0",
+  "developer": "mer20956-byte",
+  "description": "Experimental Geometry Dash auto-player prototype. Autonomous gameplay is not implemented yet."
+}
